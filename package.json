@@ -1,0 +1,14 @@
+{
+  "name": "dnkt-profile",
+  "version": "1.0.0",
+  "description": "Auto-updating GitHub profile README",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "dependencies": {
+    "mustache": "^4.2.0",
+    "node-fetch": "^2.6.7",
+    "rss-parser": "^3.13.0"
+  }
+}
