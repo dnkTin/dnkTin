@@ -1,8 +1,8 @@
 # Hi there, I'm dnktin (dnktin) 👋
 
-## 🚀 Solution Architect @ [Paradox.ai](https://paradox.ai)
+## 🚀 Fullstack @ [Paradox.ai](https://paradox.ai)
 
-I'm a Solution Architect and Full-Stack Developer based in **Da Nang, Vietnam** with nearly a decade of experience in software development. My journey began with gaming development and evolved into professional web development since early 2018.
+I'm a Full-Stack Developer based in **Da Nang, Vietnam** with nearly a decade of experience in software development. My journey began with gaming development and evolved into professional web development since early 2018.
 
 ### 💼 What I Do
 
@@ -23,7 +23,7 @@ I'm a Solution Architect and Full-Stack Developer based in **Da Nang, Vietnam** 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Currently Focusing On:**
-- Cloud Architecture & Solutions Design
+<!-- - Cloud Architecture & Solutions Design -->
 - Python & JavaScript Ecosystems
 - Modern Web Technologies
 
@@ -39,16 +39,16 @@ I'm a Solution Architect and Full-Stack Developer based in **Da Nang, Vietnam** 
 
 ### 📝 Latest Blog Posts
 
-* [Giải mã MySQL: Page&#x2F;Block](https:&#x2F;&#x2F;dnktin.substack.com&#x2F;p&#x2F;giai-ma-mysql-pageblock) - *Oct 23, 2025*
+<!-- * [Giải mã MySQL: Page&#x2F;Block](https:&#x2F;&#x2F;dnktin.substack.com&#x2F;p&#x2F;giai-ma-mysql-pageblock) - *Oct 23, 2025*
 * [Tôi đi phỏng vấn: bài toán Bulk Download](https:&#x2F;&#x2F;dnktin.substack.com&#x2F;p&#x2F;toi-i-phong-van-bai-toan-bulk-download) - *Oct 22, 2025*
 * [Tôi đi phỏng vấn: bài toán Unique ID](https:&#x2F;&#x2F;dnktin.substack.com&#x2F;p&#x2F;toi-i-phong-van-bai-toan-unique-id) - *Sep 5, 2025*
 * [Tôi đi phỏng vấn: bài toán Soft Delete](https:&#x2F;&#x2F;dnktin.substack.com&#x2F;p&#x2F;toi-i-phong-van-system-design-ve) - *Aug 27, 2025*
 * [Understanding the B+ Tree in InnoDB: The Backbone of MySQL Performance](https:&#x2F;&#x2F;dnktin.substack.com&#x2F;p&#x2F;understanding-the-b-tree-in-innodb) - *Aug 27, 2025*
-* [Understanding MySQL InnoDB Pages: The Backbone of Database Performance](https:&#x2F;&#x2F;dnktin.substack.com&#x2F;p&#x2F;understanding-mysql-innodb-pages) - *Aug 27, 2025*
+* [Understanding MySQL InnoDB Pages: The Backbone of Database Performance](https:&#x2F;&#x2F;dnktin.substack.com&#x2F;p&#x2F;understanding-mysql-innodb-pages) - *Aug 27, 2025* -->
 
 ### 🌐 Connect With Me
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://dnktin.substack.com">
     <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" />
   </a>
@@ -64,7 +64,7 @@ I'm a Solution Architect and Full-Stack Developer based in **Da Nang, Vietnam** 
   <a href="https://github.com/dnktin">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
+</p> -->
 
 ---
 
@@ -72,10 +72,10 @@ I'm a Solution Architect and Full-Stack Developer based in **Da Nang, Vietnam** 
   <img src="https://komarev.com/ghpvc/?username=dnktin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <i>This README automatically updates daily!</i><br>
   <b>Last refresh:</b> Tuesday, October 28 at 05:52 PM (Vietnam Time)
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github.com/dnktin/dnktin/workflows/Build%20README/badge.svg" alt="Build Status" />
