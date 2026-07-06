@@ -1,12 +1,11 @@
 # Hi there, I'm dnktin (dnktin) 👋
 
-## 🚀 Fullstack @ [Paradox.ai](https://paradox.ai)
+## 🚀 Fullstack
 
 I'm a Full-Stack Developer based in **Da Nang, Vietnam** with nearly a decade of experience in software development. My journey began with gaming development and evolved into professional web development since early 2018.
 
 ### 💼 What I Do
 
-- 🏗️ Design and architect scalable solutions at Paradox.ai
 - 🌐 Build modern web applications with Python and JavaScript
 - 🔧 Contribute to open-source projects
 - 📝 Share knowledge through technical writing
@@ -37,14 +36,6 @@ I'm a Full-Stack Developer based in **Da Nang, Vietnam** with nearly a decade of
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnktin&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-### 📝 Latest Blog Posts
-
-<!-- * [Giải mã MySQL: Page&#x2F;Block](https:&#x2F;&#x2F;dnktin.substack.com&#x2F;p&#x2F;giai-ma-mysql-pageblock) - *Oct 23, 2025*
-* [Tôi đi phỏng vấn: bài toán Bulk Download](https:&#x2F;&#x2F;dnktin.substack.com&#x2F;p&#x2F;toi-i-phong-van-bai-toan-bulk-download) - *Oct 22, 2025*
-* [Tôi đi phỏng vấn: bài toán Unique ID](https:&#x2F;&#x2F;dnktin.substack.com&#x2F;p&#x2F;toi-i-phong-van-bai-toan-unique-id) - *Sep 5, 2025*
-* [Tôi đi phỏng vấn: bài toán Soft Delete](https:&#x2F;&#x2F;dnktin.substack.com&#x2F;p&#x2F;toi-i-phong-van-system-design-ve) - *Aug 27, 2025*
-* [Understanding the B+ Tree in InnoDB: The Backbone of MySQL Performance](https:&#x2F;&#x2F;dnktin.substack.com&#x2F;p&#x2F;understanding-the-b-tree-in-innodb) - *Aug 27, 2025*
-* [Understanding MySQL InnoDB Pages: The Backbone of Database Performance](https:&#x2F;&#x2F;dnktin.substack.com&#x2F;p&#x2F;understanding-mysql-innodb-pages) - *Aug 27, 2025* -->
 
 ### 🌐 Connect With Me
 
@@ -54,9 +45,6 @@ I'm a Full-Stack Developer based in **Da Nang, Vietnam** with nearly a decade of
   </a>
   <a href="https://www.dnktin.dev">
     <img src="https://img.shields.io/badge/Blog-dnktin.dev-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog" />
-  </a>
-  <a href="https://www.facebook.com/DuongThanhHop/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.linkedin.com/in/dnktin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
